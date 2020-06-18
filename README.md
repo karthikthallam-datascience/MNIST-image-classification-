@@ -11,7 +11,7 @@ Step involved:
 
 1) Load the Data
 
-    a) Tuple unpacking the data into X_train, y_train and X_test, y_test from mnist default Keras dataset
+    a) Tuple unpacking the data into X_train, y_train and X_test, y_test 
     
 2) Visualize a sample image using matplotlib
 
